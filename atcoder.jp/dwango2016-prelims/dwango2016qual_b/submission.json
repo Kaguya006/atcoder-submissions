@@ -1,0 +1,12 @@
+{
+	"id": 16781702,
+	"epoch_second": 1600246214,
+	"problem_id": "dwango2016qual_b",
+	"contest_id": "dwango2016-prelims",
+	"user_id": "Kaguya006",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 80,
+	"length": 1073,
+	"result": "AC",
+	"execution_time": 51
+}
