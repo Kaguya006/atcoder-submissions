@@ -1,0 +1,12 @@
+{
+	"id": 28980548,
+	"epoch_second": 1643644467,
+	"problem_id": "cf17_final_a",
+	"contest_id": "cf17-final",
+	"user_id": "Kaguya006",
+	"language": "PyPy3 (7.3.0)",
+	"point": 300,
+	"length": 320,
+	"result": "AC",
+	"execution_time": 117
+}
